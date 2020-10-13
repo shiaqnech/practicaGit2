@@ -2,3 +2,15 @@
 	padding: 0;
 	margin: 0;
 }
+
+.titol{
+	text-align: center;
+}
+
+.cos img{
+	align-items: left;
+}
+footer{
+	text-align: center;
+	padding-top: 40px;
+}
